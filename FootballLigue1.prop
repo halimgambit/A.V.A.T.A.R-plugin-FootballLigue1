@@ -1,0 +1,12 @@
+{
+	"modules": { 
+		"FootballLigue1": {
+			"version": "1.0",
+			"name": "football",
+			"rules": {
+				"getScore": ["the ranking of league 1","league 1 ranking","the ligue 1 standings"]
+			}
+		}
+	}
+}
+			

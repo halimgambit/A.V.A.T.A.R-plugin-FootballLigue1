@@ -1,0 +1,12 @@
+{
+    "name": "FootballLigue1",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Plugin FootballLigue1 for A.V.A.T.A.R",
+    "repository": "https://github.com/YOUR-REPOSITORY",
+    "keywords": [
+        "FootballLigue1"
+    ],
+    "author": "YOUR-NAME",
+    "license": "mit"
+  }
