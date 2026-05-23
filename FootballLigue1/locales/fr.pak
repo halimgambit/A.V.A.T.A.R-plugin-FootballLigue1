@@ -1,0 +1,10 @@
+{
+  "speech": {
+    "rank": "$$ est $$ avec $$ points",
+    "leader": "en tête du championnat",
+    "position": "à la $$ème place",
+    "calendarNotReady": "Le calendrier n'est pas encore disponible.",
+    "errorAccess": "Je n'arrive pas à récupérer les données.",
+    "errorHttp": "Erreur HTTP $$"
+  }
+}
