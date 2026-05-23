@@ -6,8 +6,8 @@ This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.gi
 🎯 Usage
 Commandes :
 
-quel est le classement de ligue 1,
-donne moi le classement de ligue 1
+quel est le classement de la ligue 1,
+donne moi le classement de la ligue 1
 
 Multi-room
 The FootballLigue1 plugin is fully multi-room.
