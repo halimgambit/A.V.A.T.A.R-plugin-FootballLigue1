@@ -9,10 +9,10 @@ Commandes :
 quel est le classement de la ligue 1,
 donne moi le classement de la ligue 1
 
-Multi-room
+# Multi-room
 The FootballLigue1 plugin is fully multi-room.
 
-Multi-language
+# Multi-language
 The FootballLigue1 plugin relies solely on the system's available languages.
 
 
