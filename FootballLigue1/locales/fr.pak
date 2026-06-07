@@ -3,7 +3,9 @@
     "rank": "$$ est $$ avec $$ points",
     "leader": "en tête du championnat",
     "position": "à la $$ème place",
-    "calendarNotReady": "Le calendrier n'est pas encore disponible.",
+    "win": "$$ a battu $$, $$ buts à $$",
+    "draw": "$$ et $$ ont fait match nul, $$ partout",
+   "notPlayed": "Le match entre $$ et $$ n'a pas encore eu lieu",
     "errorAccess": "Je n'arrive pas à récupérer les données.",
     "errorHttp": "Erreur HTTP $$"
   }
