@@ -1,0 +1,7 @@
+Le classement de la ligue 1
+
+Football Ligue 1 est l'un des plugins incontournables pour votre majordome vocal A.V.A.T.A.R.
+
+Interrogez simplement A.V.A.T.A.R. à la voix pour connaître les dernières informations du championnat de Ligue 1. Le plugin est capable de vous annoncer le classement des six premières équipes ainsi que les résultats et le calendrier des rencontres les plus récentes.
+
+Grâce à une restitution vocale claire et naturelle, restez informé de l'actualité du championnat sans quitter votre canapé.
