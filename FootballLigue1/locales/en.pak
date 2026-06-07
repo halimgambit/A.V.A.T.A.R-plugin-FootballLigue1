@@ -1,10 +1,12 @@
 {
-  "speech": {
+  speech: {
     "rank": "$$ is $$ with $$ points",
-    "leader": "leading the league",
-    "position": "in $$th place",
-    "calendarNotReady": "The calendar is not available yet.",
-    "errorAccess": "Unable to fetch data.",
+    "leader": "at the top of the championship",
+    "position": "in the $$th place",
+    "win": "$$ beat $$, $$ goals to $$",
+    "draw": "$$ and $$ drew, $$ everywhere",
+   "notPlayed": "The match between $$ and $$ has not yet taken place",
+    "errorAccess": "I can’t retrieve the data.",
     "errorHttp": "HTTP error $$"
   }
 }
